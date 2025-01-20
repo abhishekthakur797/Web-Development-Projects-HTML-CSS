@@ -15,13 +15,19 @@ A simple form where users can fill in their details such as:
 - Date of Birth
 - Upload CV
 
+![Application Form](./Application%20Form/Application%20carriers.png)
+
 ### 2. Landing Page
 
 A landing page showcasing a **Full Stack Developer** single web app, providing a clean and professional layout.
 
+![Landing Page](/Landing%20Page/images/LandingpageSS.png)
+
 ### 3. Restaurant Website
 
 A responsive restaurant website designed to provide an excellent user experience across various devices.
+
+![Restaurant Website](/Restaurant/images/ResturantSS.png)
 
 ## Technologies Used
 
