@@ -2,6 +2,13 @@
 
 This repository contains a collection of projects demonstrating the development of a **Single Page Application (SPA)** using **HTML** and **CSS**. The projects are fully responsive and showcase different types of web applications.
 
+## Technologies Used
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+The projects use **HTML5** and **CSS3** for building the frontend. The design is fully responsive to ensure a seamless experience across different screen sizes.
+
 ## Projects
 
 ### 1. Application Form
@@ -28,13 +35,6 @@ A landing page showcasing a **Full Stack Developer** single web app, providing a
 A responsive restaurant website designed to provide an excellent user experience across various devices.
 
 ![Restaurant Website](/Restaurant/images/ResturantSS.png)
-
-## Technologies Used
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-The projects use **HTML5** and **CSS3** for building the frontend. The design is fully responsive to ensure a seamless experience across different screen sizes.
 
 ## Setup Instructions
 
